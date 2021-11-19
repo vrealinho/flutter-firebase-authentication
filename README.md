@@ -3,4 +3,4 @@ Example of implementation of Firebase Authentication in a Flutter app
 
 More info in https://pub.dev/packages/firebase_auth
 
-Example based on code of @github/sbis04
+Based on @github/sbis04
